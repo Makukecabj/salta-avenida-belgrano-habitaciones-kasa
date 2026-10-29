@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://salta-avenida-belgrano-habitaciones-kasa.vercel.app/sitemap.xml
+Sitemap: https://salta-avenida-belgrano-habitaciones.vercel.app/sitemap.xml
