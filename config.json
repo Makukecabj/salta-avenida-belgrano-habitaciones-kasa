@@ -1,0 +1,452 @@
+{
+  "business": {
+    "name": "Salta avenida Belgrano Habitaciones KASA",
+    "short_name": "salta-avenida-belgrano-habitaciones-kasa",
+    "tagline": "Salta avenida Belgrano Habitaciones KASA - Salta",
+    "description": "Habitaciones cómodas y buena onda en Salta avenida Belgrano Habitaciones KASA, Salta.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Salta · AVENIDA BELGRANO 1082 ENTRE CALLES ADOLFO GUEMES",
+    "title_line1": "Bienvenido a",
+    "title_em": "salta-avenida-belgrano-habitaciones-kasa",
+    "title_line2": "",
+    "subtitle": "Tu refugio en Salta después de recorrer todo el día."
+  },
+  "location": {
+    "address": "AVENIDA BELGRANO 1082 ENTRE CALLES ADOLFO GUEMES, Av. Sarmiento Y, A4400, Salta",
+    "district": "Salta",
+    "city": "Salta",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "AVENIDA BELGRANO 1082 ENTRE CALLES ADOLFO GUEMES, Av. Sarmiento Y, A4400, Salta, Salta",
+    "map_embed": "https://maps.google.com/maps?q=AVENIDA+BELGRANO+1082+ENTRE+CALLES+ADOLFO+GUEMES%2C+Av.+Sarmiento+Y%2C+A4400%2C+Salta%2C+Salta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Salta. Bien ubicado para recorrer la zona.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5493873123004",
+    "phone": "+5493873123004",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Salta+avenida+Belgrano+Habitaciones+KASA/data=!4m10!3m9!1s0x941bc3a29385162d:0x84a44f700577eb8d!5m2!4m1!1i2!8m2!3d-24.7866604!4d-65.4172499!16s%2Fg%2F11kq17x0p9!19sChIJLRaFk6LDG5QRjet3BXBPpIQ?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Salta+avenida+Belgrano+Habitaciones+KASA/data=!4m10!3m9!1s0x941bc3a29385162d:0x84a44f700577eb8d!5m2!4m1!1i2!8m2!3d-24.7866604!4d-65.4172499!16s%2Fg%2F11kq17x0p9!19sChIJLRaFk6LDG5QRjet3BXBPpIQ?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Te contamos",
+    "title": "La historia de Salta avenida Belgrano Habitaciones KASA.",
+    "paragraphs": [
+      "Somos Salta avenida Belgrano Habitaciones KASA, un hostel con toda la vibra de Salta. Pileta, parrilla, cocina, WiFi y una ubicación que te queda perfecto para explorar todo. Vení y conocinos."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Disponibilidad actualizada al momento",
+    "Directo al hostel, sin comisiones",
+    "Te ayudamos a organizar tu viaje"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Habitaciones limpias y cómodas",
+      "description": "Todo lo que necesitás para descansar después de explorar.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi gratis",
+      "description": "Subite las fotos y mandá los audios sin drama.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Bien ubicados",
+      "description": "A pocas cuadras de todo lo que necesitás.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Agustina L.",
+      "rating": 5,
+      "text": "La mejor elección de nuestro viaje. Todo impecable y la gente que atiende te hace sentir bienvenido."
+    },
+    {
+      "author": "Federico T.",
+      "rating": 4,
+      "text": "Hermosa experiencia. Cómodo, bien ubicado y con una atención que se nota hecha con cariño."
+    },
+    {
+      "author": "Rocío B.",
+      "rating": 5,
+      "text": "Todo perfecto: la limpieza, la atención y las recomendaciones de la gente del lugar. Diez puntos."
+    },
+    {
+      "author": "Diego F.",
+      "rating": 4,
+      "text": "Muy buena relación calidad-precio y una atención personalizada que no encontrás en otros lados."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Desayuno incluido?",
+      "answer": "Depende la época, escribinos y te confirmamos."
+    },
+    {
+      "question": "¿A qué hora llego y me voy?",
+      "answer": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+    },
+    {
+      "question": "¿Hay lugar para guardar equipaje?",
+      "answer": "Sí, podés dejar las valijas antes del check-in o después del check-out."
+    },
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "Salta avenida Belgrano Habitaciones KASA",
+    "copyright": "© 2026 Salta avenida Belgrano Habitaciones KASA. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Salta avenida Belgrano Habitaciones KASA",
+        "short_name": "salta-avenida-belgrano-habitaciones-kasa",
+        "tagline": "Salta avenida Belgrano Habitaciones KASA - Accommodation",
+        "description": "Salta avenida Belgrano Habitaciones KASA, your ideal stay in Salta.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Salta · AVENIDA BELGRANO 1082 ENTRE CALLES ADOLFO GUEMES",
+        "title_line1": "Visit",
+        "title_em": "salta-avenida-belgrano-habitaciones-kasa",
+        "title_line2": "",
+        "subtitle": "A chill place to rest in Salta."
+      },
+      "about": {
+        "eyebrow": "Who we are",
+        "title": "The story of Salta avenida Belgrano Habitaciones KASA.",
+        "paragraphs": [
+          "Salta avenida Belgrano Habitaciones KASA is your base in Salta. Pool, BBQ, WiFi, kitchen and an ideal location to explore everything. We're a family hostel with all the vibes you need to travel easy."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Salta. Right in the heart of the city."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is breakfast included?",
+          "answer": "It depends on the season, message us and we'll confirm."
+        },
+        {
+          "question": "Is there a pool?",
+          "answer": "Yes! In summer it's the best spot to cool off after sightseeing."
+        },
+        {
+          "question": "Can I pay by card?",
+          "answer": "Ask us, we have several payment options to make it easy for you."
+        },
+        {
+          "question": "Is there parking?",
+          "answer": "Yes, we have free parking on the property."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Someone's always here to help",
+        "No surprises at checkout",
+        "We'll tell you everything you need to know"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        },
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        },
+        {
+          "author": "Peter D.",
+          "rating": 5,
+          "text": "Perfect spot to unwind. Quiet, clean, with lovely shared spaces to meet travelers."
+        },
+        {
+          "author": "James W.",
+          "rating": 5,
+          "text": "Traveling with friends and couldn't have picked a better place. Clean, comfy and welcoming."
+        }
+      ],
+      "footer": {
+        "description": "Salta avenida Belgrano Habitaciones KASA",
+        "copyright": "© 2026 Salta avenida Belgrano Habitaciones KASA. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Salta avenida Belgrano Habitaciones KASA",
+        "description": "Todo lo que buscás para viajar tranquilo, en Salta avenida Belgrano Habitaciones KASA.",
+        "url": "",
+        "telephone": "+5493873123004",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Salta+avenida+Belgrano+Habitaciones+KASA/data=!4m10!3m9!1s0x941bc3a29385162d:0x84a44f700577eb8d!5m2!4m1!1i2!8m2!3d-24.7866604!4d-65.4172499!16s%2Fg%2F11kq17x0p9!19sChIJLRaFk6LDG5QRjet3BXBPpIQ?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "AVENIDA BELGRANO 1082 ENTRE CALLES ADOLFO GUEMES, Av. Sarmiento Y, A4400, Salta",
+          "addressLocality": "Salta",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Habitaciones limpias y cómodas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Bien ubicados",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Desayuno incluido?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depende la época, escribinos y te confirmamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿A qué hora llego y me voy?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hacemos lo posible por adaptarnos a tu horario. Escribinos y lo charlamos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay lugar para guardar equipaje?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, podés dejar las valijas antes del check-in o después del check-out."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
